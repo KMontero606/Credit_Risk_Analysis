@@ -12,12 +12,56 @@ Next, compare two new machine learning models that reduce bias, BalancedRandomFo
 
 ## Results: Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
   - ### ***Oversampling RandomOverSampler Algorithm***
+    - Balanced accuracy score:
+    
+    ![image](https://user-images.githubusercontent.com/106962921/194575751-92a2287c-8973-48af-963f-98f266bc8d32.png)
+
+    - Precision score:
+
+    ![image](https://user-images.githubusercontent.com/106962921/194575852-3f9d9259-ef14-4aa2-9574-78cafd52b497.png)
+
+    - Recall score:   
+
+    ![image](https://user-images.githubusercontent.com/106962921/194575915-63387cae-3917-4732-8ce6-2e7ec19df96f.png)
 
   - ### ***Oversampling SMOTE Algorithm***
+    - Balanced accuracy score:
+    
+    ![image](https://user-images.githubusercontent.com/106962921/194576053-f1b4427e-1ba1-4ba9-8ef4-4c5805c64c80.png)
+    
+    - Precision score:
+    
+    ![image](https://user-images.githubusercontent.com/106962921/194576115-46564017-d96e-4c98-807e-992f4493793b.png)
+    
+    - Recall score:  
 
+    ![image](https://user-images.githubusercontent.com/106962921/194576202-ae88fe63-58a2-4cec-84f8-13b22f97ab2f.png)
+    
   - ### ***Undersampling ClusterCentroids Algorithm***
+    - Balanced accuracy score:
+
+    ![image](https://user-images.githubusercontent.com/106962921/194576628-3ace8f48-fe29-4cc2-b344-cf64fec9af58.png)
+
+    - Precision score:
+
+    ![image](https://user-images.githubusercontent.com/106962921/194576694-fb43fec6-e18c-4422-965c-e00bd0d169c9.png)
+
+    - Recall score: 
+
+    ![image](https://user-images.githubusercontent.com/106962921/194576783-b5b92bba-c1cb-44d4-9e7c-66ac1d9da76e.png)  
 
   - ### ***Combinatorial SMOTEENN Algorithm***
+    - Balanced accuracy score:
+    
+    ![image](https://user-images.githubusercontent.com/106962921/194576908-99e25414-40a6-487c-a009-35638f249cb4.png)
+
+    - Precision score:
+    
+    ![image](https://user-images.githubusercontent.com/106962921/194576964-491dd815-b979-400b-853f-8c35e7b0139b.png)
+
+    - Recall score: 
+  
+    ![image](https://user-images.githubusercontent.com/106962921/194577118-73d10c2a-4de0-4f6f-98ec-0b0089d62749.png)
 
   - ### ***BalancedRandomClassifier Algorithm***
     - Balanced accuracy score:
