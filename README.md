@@ -92,4 +92,4 @@ Next, compare two new machine learning models that reduce bias, BalancedRandomFo
     ![image](https://user-images.githubusercontent.com/106962921/194574322-2ff6b0a6-eaa4-4be6-8691-00653c2a306d.png)
 
 ## Summary:
-
+In summary, EasyEnsembleClassifier model may be the best one for predecting credit risk analysis because of the model's accuracy of 0.93. However, it does provide low precision for high-risk analysis, but has high precision for low-risk. On top of that, the recall score are good enough to state that the model will be good at analysing credit risk.
