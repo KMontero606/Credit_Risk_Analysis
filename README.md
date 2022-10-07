@@ -64,31 +64,32 @@ Next, compare two new machine learning models that reduce bias, BalancedRandomFo
     ![image](https://user-images.githubusercontent.com/106962921/194577118-73d10c2a-4de0-4f6f-98ec-0b0089d62749.png)
 
   - ### ***BalancedRandomClassifier Algorithm***
-    - Balanced accuracy score: 
+    - Balanced accuracy score: 0.79
     
     ![image](https://user-images.githubusercontent.com/106962921/194574452-e68317fa-bc29-41c4-8bef-1ff947044ed2.png)
 
-    - Precision score:
+    - Precision score: low precision for high-risk, high precision for low-risk
     
     ![image](https://user-images.githubusercontent.com/106962921/194574520-94af2a45-fbae-4ba1-82c4-7f4bca196043.png)
     
-    - Recall score:
+    - Recall score: 0.67 for high-risk, 0.91 for low-risk
     
     ![image](https://user-images.githubusercontent.com/106962921/194574575-08a1c13b-a67b-498f-9b75-b602c8ce1e40.png)
 
 
   - ### ***EasyEnsembleClassifier Algorithm***
 
-    - Balanced accuracy score:
+    - Balanced accuracy score: 0.93
     
     ![image](https://user-images.githubusercontent.com/106962921/194574071-37cc4e0f-d57a-463e-a392-76d0c51c403c.png)
 
-    - Precision score:
+    - Precision score: low precision for high-risk, high precision for low-risk
 
     ![image](https://user-images.githubusercontent.com/106962921/194574272-f9eea882-9076-4716-9ba4-976728e916c8.png)
     
-    - Recall score:
+    - Recall score: 0.91 for high-risk, 0.94 for low-risk
     
     ![image](https://user-images.githubusercontent.com/106962921/194574322-2ff6b0a6-eaa4-4be6-8691-00653c2a306d.png)
 
-## Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
+## Summary:
+
