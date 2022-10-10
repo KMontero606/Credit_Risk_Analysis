@@ -10,7 +10,7 @@ Then, use a combinatorial approach of over- and undersampling using the SMOTEENN
 
 Next, compare two new machine learning models that reduce bias, BalancedRandomForestClassifier and EasyEnsembleClassifier, to predict credit risk. Once completed, evaluate the performance of these models and make a written recommendation on whether these models should be used to predict credit risk.
 
-## Results: Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
+## Results:
   - ### ***Oversampling RandomOverSampler Algorithm***
     - Balanced accuracy score: 0.66
     
